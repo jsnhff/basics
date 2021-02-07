@@ -1,7 +1,3 @@
-# basics
-My bash and vim setup
-
-```
 #   Set Paths
 #   ------------------------------------------------------------
 
@@ -28,4 +24,3 @@ My bash and vim setup
 
 	alias ls='ls -Gp'			    # Preferred ‘ls’ implementation
 	alias lsa='ls -Gpa'			    # Bonus ‘ls’ implementation
-```
